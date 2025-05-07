@@ -71,10 +71,6 @@
     "nombre": "Ley de Arrendamientos Urbanos",
     "id": "BOE-A-1994-26003"
   },  
-  "LBRL": {
-    "nombre": "Ley Reguladora de las Bases del Régimen Local",
-    "id": "BOE-A-1985-5392"
-  },  
   "LC": {
     "nombre": "Texto Refundido de la Ley Concursal",
     "id": "BOE-A-2020-4859"
@@ -225,7 +221,7 @@
   },
   "LPBCFT": {
     "nombre": "Ley de Prevención del Blanqueo de Capitales y de la Financiación del Terrorismo",
-    "id": "BOE-A-2003-20254"
+    "id": "BOE-A-2010-6737"
   },
   "LPEMM": {
     "nombre": "Texto Refundido de la Ley de Puertos del Estado y de la Marina Mercante",
