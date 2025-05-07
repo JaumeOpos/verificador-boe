@@ -327,10 +327,6 @@
     "nombre": "Reglamento de la Ley de Hipoteca Mobiliaria y Prenda sin desplazamiento de posesión",
     "id": "BOE-A-1947-3843"
   },
-  "RLHMPSD": {
-    "nombre": "Reglamento de la Ley de Hipoteca Mobiliaria y Prenda sin desplazamiento de posesión",
-    "id": "BOE-A-1947-3843"
-  },
   "RR1": {
     "nombre": "Reglamento Roma I",
     "id": "DOUE-L-2008-81325"
@@ -352,7 +348,7 @@
     "id": "BOE-A-1979-1217"
   },
   "TRLA": {
-    "nombre": "Tratado de Funcionamiento de la Unión Europea",
-    "id": "Texto Refundido de la Ley de Aguas"
+    "nombre": "Texto Refundido de la Ley de Aguas",
+    "id": "BOE-A-2001-14276"
   }
 }
