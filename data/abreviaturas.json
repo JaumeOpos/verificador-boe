@@ -1,0 +1,358 @@
+{
+  "ASSAE": {
+    "nombre": "Acuerdo entre el Estado español y la Santa Sede sobre asuntos económicos, firmado en Ciudad del Vaticano el 3 de enero de 1979",
+    "id": "BOE-A-1979-29490"
+  },
+  "ASSAJ": {
+    "nombre": "Acuerdo entre el Estado español y la Santa Sede sobre asuntos jurídicos, firmado el 3 de enero de 1979 en la Ciudad del Vaticano",
+    "id": "BOE-A-1979-29489"
+  },
+  "CC": {
+    "nombre": "Código Civil",
+    "id": "BOE-A-1889-4763"
+  },
+  "CCCatL1": {
+    "nombre": "Código Civil de Cataluña, Libro I",
+    "id": "BOE-A-2003-2410"
+  },
+  "CCCatL2": {
+    "nombre": "Código Civil de Cataluña, Libro II",
+    "id": "BOE-A-2010-13312"
+  },
+  "CCCatL3": {
+    "nombre": "Código Civil de Cataluña, Libro III",
+    "id": "BOE-A-2008-9293"
+  },
+  "CCCatL4": {
+    "nombre": "Código Civil de Cataluña, Libro IV",
+    "id": "BOE-A-2008-13533"
+  },
+  "CCCatL5": {
+    "nombre": "Código Civil de Cataluña, Libro V",
+    "id": "BOE-A-2006-11130"
+  },
+  "CCCatL6": {
+    "nombre": "Código Civil de Cataluña, Libro VI",
+    "id": "BOE-A-2017-2466"
+  },
+  "CCo": {
+    "nombre": "Código de Comercio",
+    "id": "BOE-A-1885-6627"
+  },
+  "CDCFN": {
+    "nombre": "Compilación del Derecho Civil Foral de Navarra",
+    "id": "BOE-A-1973-330"
+  },  
+  "CDCIB": {
+    "nombre": "Compilación del derecho civil de las Islas Baleares",
+    "id": "BOIB-i-1990-90001"
+  },
+  "CDFA": {
+    "nombre": "Código del Derecho Foral de Aragó",
+    "id": "BOA-d-2011-90007"
+  },  
+  "CE": {
+    "nombre": "Constitución Española",
+    "id": "BOE-A-1978-31229"
+  },  
+  "ET": {
+    "nombre": "Estatuto de los Trabajadores",
+    "id": "BOE-A-2015-11430"
+  },  
+  "LA": {
+    "nombre": "Ley de Arbitraje",
+    "id": "BOE-A-2003-23646"
+  },  
+  "LAR": {
+    "nombre": "Ley de Arrendamientos Rústicos",
+    "id": "BOE-A-2003-21616"
+  },  
+  "LAU": {
+    "nombre": "Ley de Arrendamientos Urbanos",
+    "id": "BOE-A-1994-26003"
+  },  
+  "LBRL": {
+    "nombre": "Ley Reguladora de las Bases del Régimen Local",
+    "id": "BOE-A-1985-5392"
+  },  
+  "LC": {
+    "nombre": "Texto Refundido de la Ley Concursal",
+    "id": "BOE-A-2020-4859"
+  },
+  "LCAT": {
+    "nombre": "Ley de contratos de aprovechamiento por turno de bienes de uso turístico, de adquisición de productos vacacionales de larga duración, de reventa y de intercambio y normas tributarias",
+    "id": "BOE-A-2012-9111"
+  },
+  "LCA": {
+    "nombre": "Ley sobre Contrato de Agencia",
+    "id": "BOE-A-1992-12347"
+  },
+  "LCCC": {
+    "nombre": "Ley de contratos de crédito al consumo",
+    "id": "BOE-A-2011-10970"
+  },
+  "LCCI": {
+    "nombre": "Ley reguladora de los contratos de crédito inmobiliario",
+    "id": "BOE-A-2019-3814"
+  },
+  "LCGC": {
+    "nombre": "Ley sobre condiciones generales de la contratación",
+    "id": "BOE-A-1998-8789"
+  },
+  "LCJI": {
+    "nombre": "Ley de cooperación jurídica internacional en materia civil",
+    "id": "BOE-A-2015-8564"
+  },
+  "LCO": {
+    "nombre": "Ley de Costas",
+    "id": "BOE-A-1988-18762"
+  },
+  "LCS": {
+    "nombre": "Ley de Contrato de Seguros",
+    "id": "BOE-A-1980-22501"
+  },
+  "LDCG": {
+    "nombre": "Ley de Derecho civil de Galicia",
+    "id": "BOE-A-2006-14563"
+  },
+  "LDCV": {
+    "nombre": "Ley de Derecho Civil Vasco",
+    "id": "BOE-A-2015-8273"
+  },
+  "LEC": {
+    "nombre": "Ley de Enjuiciamiento Civil",
+    "id": "BOE-A-2000-323"
+  },
+  "LEF": {
+    "nombre": "Ley sobre Expropiación Forzosa",
+    "id": "BOE-A-1954-15431"
+  },
+  "LF": {
+    "nombre": "Ley de Fundaciones",
+    "id": "BOE-A-2002-25180"
+  },
+  "LGDCU": {
+    "nombre": "Ley General para la Defensa de los Consumidores y Usuarios",
+    "id": "BOE-A-2007-20555"
+  },
+  "LH": {
+    "nombre": "Ley Hipotecaria",
+    "id": "BOE-A-1946-2453"
+  },
+  "LHMPSD": {
+    "nombre": "Ley sobre Hipoteca Mobiliaria y Prenda sin Desplazamiento de Posesión",
+    "id": "BOE-A-1954-15448"
+  },
+  "LIRPF": {
+    "nombre": "Ley del Impuesto sobre la Renta de las Personas Físicas",
+    "id": "BOE-A-2006-20764"
+  },
+  "LIRYDA": {
+    "nombre": "Ley de Reforma y Desarrollo Agrario",
+    "id": "BOE-A-1973-167"
+  },
+  "LIS": {
+    "nombre": "Ley del Impuesto sobre Sociedades",
+    "id": "BOE-A-2014-12328"
+  },
+  "LJV": {
+    "nombre": "Ley de la Jurisdicción Voluntaria",
+    "id": "BOE-A-2015-7391"
+  },
+  "LM": {
+    "nombre": "Ley de Montes",
+    "id": "BOE-A-2003-21339"
+  },
+  "LMC": {
+    "nombre": "Ley de Mediación en asuntos civiles y mercantiles",
+    "id": "BOE-A-2012-9112"
+  },
+  "LMEA": {
+    "nombre": "Ley de Modernización de las Explotaciones Agrarias",
+    "id": "BOE-A-1995-16257"
+  },
+  "LMI": {
+    "nombre": "Ley de Minas",
+    "id": "BOE-A-1973-1018"
+  },
+  "LMVMC": {
+    "nombre": "Ley de Montes Vecinales en Mano Común",
+    "id": "BOE-A-1980-25463"
+  },
+  "LN": {
+    "nombre": "Ley del Notariado",
+    "id": "BOE-A-1862-4073"
+  },
+  "LNA": {
+    "nombre": "Ley sobre Navegación Aérea",
+    "id": "BOE-A-1960-10905"
+  },
+  "LNM": {
+    "nombre": "Ley de Navegación Marítima",
+    "id": "BOE-A-2014-7877"
+  },
+  "LODA": {
+    "nombre": "Ley Orgánica reguladora del Derecho de Asociación",
+    "id": "BOE-A-2002-5852"
+  },
+  "LODH": {
+    "nombre": "Ley Orgánica de protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen",
+    "id": "BOE-A-1982-11196"
+  },
+  "LOE": {
+    "nombre": "Ley de Ordenación de la Edificación",
+    "id": "BOE-A-1999-21567"
+  },
+  "LOLR": {
+    "nombre": "Ley Orgánica de Libertad Religiosa",
+    "id": "BOE-A-1980-15955"
+  },
+  "LOPD": {
+    "nombre": "Ley Orgánica de Protección de Datos de Carácter Personal",
+    "id": "BOE-A-1999-23750"
+  },
+  "LOPJ": {
+    "nombre": "Ley Orgánica del Poder Judicial",
+    "id": "BOE-A-1985-12666"
+  },
+  "LPAC": {
+    "nombre": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "id": "BOE-A-2015-10565"
+  },
+  "LPAP": {
+    "nombre": "Ley del Patrimonio de las Administraciones Públicas",
+    "id": "BOE-A-2003-20254"
+  },
+  "LPBCFT": {
+    "nombre": "Ley de Prevención del Blanqueo de Capitales y de la Financiación del Terrorismo",
+    "id": "BOE-A-2003-20254"
+  },
+  "LPEMM": {
+    "nombre": "Texto Refundido de la Ley de Puertos del Estado y de la Marina Mercante",
+    "id": "BOE-A-2011-16467"
+  },
+  "LPH": {
+    "nombre": "Ley sobre Propiedad Horizontal",
+    "id": "BOE-A-1960-10906"
+  },
+  "LPHE": {
+    "nombre": "Ley del Patrimonio Histórico Español",
+    "id": "BOE-A-1985-12534"
+  },
+  "LPI": {
+    "nombre": "Ley de Propiedad Intelectual",
+    "id": "BOE-A-1996-8930"
+  },
+  "LRBRL": {
+    "nombre": "Ley Reguladora de las Bases del Régimen Local",
+    "id": "BOE-A-1985-5392"
+  },
+  "LRC": {
+    "nombre": "Ley del Registro Civil",
+    "id": "BOE-A-2011-12628"
+  },
+  "LRCSCVM": {
+    "nombre": "Texto Refundido de la Ley sobre Responsabilidad Civil y Seguro en la Circulación de Vehículos a Motor",
+    "id": "BOE-A-2004-18911"
+  },
+  "LRDA": {
+    "nombre": "Texto Refundido de la Ley de Reforma y Desarrollo Agrario",
+    "id": "BOE-A-1973-167"
+  },
+  "LS1976": {
+    "nombre": "Ley sobre Régimen del Suelo y Ordenación Urbana de 1976",
+    "id": "BOE-A-1976-11506"
+  },
+  "LS1992": {
+    "nombre": "Ley sobre el Régimen del Suelo y Ordenación Urbana de 1992",
+    "id": "BOE-A-1992-15285"
+  },
+  "LS2008": {
+    "nombre": "Ley de Suelo de 2008",
+    "id": "BOE-A-2008-10792"
+  },
+  "LSC": {
+    "nombre": "Texto Refundido de la Ley de Sociedades de Capital",
+    "id": "BOE-A-2010-10544"
+  },
+  "LSH": {
+    "nombre": "Ley del Sector de Hidrocarburos",
+    "id": "BOE-A-1998-23284"
+  },
+  "LSRU": {
+    "nombre": "Texto Refundido de la Ley de Suelo y Rehabilitación Urbana",
+    "id": "BOE-A-2015-11723"
+  },
+  "LSSI": {
+    "nombre": "Ley de Servicios de la Sociedad de la Información y de comercio electrónico",
+    "id": "BOE-A-2002-13758"
+  },
+  "LVPBM": {
+    "nombre": "Ley de de Venta a Plazos de Bienes Muebles",
+    "id": "BOE-A-1998-16717"
+  },
+  "RDLVPO": {
+    "nombre": "Real Decreto-Ley sobre Política de Viviendas de Protección Oficial",
+    "id": "BOE-A-1978-27765"
+  },
+  "RDPH": {
+    "nombre": "Reglamento del Dominio Público Hidráulico",
+    "id": "BOE-A-1986-10638"
+  },
+  "RDRER": {
+    "nombre": "Real Decreto por el que se regula el Registro de Entidades Religiosas",
+    "id": "BOE-A-2015-8643"
+  },
+  "RDU": {
+    "nombre": "Reglamento de Disciplina Urbanística para el desarrollo y aplicación de la Ley sobre Régimen del Suelo y Ordenación Urbana",
+    "id": "BOE-A-1978-23852"
+  },
+  "REF": {
+    "nombre": "Reglamento de la Ley de Expropiación Forzosa",
+    "id": "BOE-A-1957-7998"
+  },
+  "RGC": {
+    "nombre": "Reglamento General de Costas",
+    "id": "BOE-A-2014-10345"
+  },
+  "RGU": {
+    "nombre": "Reglamento de Gestión Urbanística",
+    "id": "BOE-A-1979-2886"
+  },
+  "RH": {
+    "nombre": "Reglamento Hipotecario",
+    "id": "BOE-A-1947-3843"
+  },
+  "RLHMPSD": {
+    "nombre": "Reglamento de la Ley de Hipoteca Mobiliaria y Prenda sin desplazamiento de posesión",
+    "id": "BOE-A-1947-3843"
+  },
+  "RLHMPSD": {
+    "nombre": "Reglamento de la Ley de Hipoteca Mobiliaria y Prenda sin desplazamiento de posesión",
+    "id": "BOE-A-1947-3843"
+  },
+  "RR1": {
+    "nombre": "Reglamento Roma I",
+    "id": "DOUE-L-2008-81325"
+  },
+  "RR2": {
+    "nombre": "Reglamento Roma II",
+    "id": "DOUE-L-2007-81334"
+  },
+  "RRC": {
+    "nombre": "Reglamento de la Ley del Registro Civil",
+    "id": "BOE-A-1958-18486"
+  },
+  "RSE": {
+    "nombre": "Reglamento UE relativo a la competencia, la ley aplicable, el reconocimiento y la ejecución de las resoluciones, a la aceptación y la ejecución de los documentos públicos en materia de sucesiones mortis causa y a la creación de un certificado Sucesorio Europeo",
+    "id": "DOUE-L-2012-81342"
+  },
+  "RVPO": {
+    "nombre": "Real Decreto por el que se desarrolla el Real Decreto-Ley sobre Política de Vivienda",
+    "id": "BOE-A-1979-1217"
+  },
+  "TRLA": {
+    "nombre": "Tratado de Funcionamiento de la Unión Europea",
+    "id": "Texto Refundido de la Ley de Aguas"
+  }
+}
